@@ -72,7 +72,7 @@ int main() {
     RekeningBank* rekening3;
 
     // Membuat objek
-    rekening1 = new RekeningSyariah("Reyy", 50000);
+    rekening1 = new RekeningSyariah("Hamzah", 50000);
     rekening2 = new RekeningKonvensional("Gibran", 30000);
     rekening3 = new RekeningPremium("Jaya", 120000);
 
